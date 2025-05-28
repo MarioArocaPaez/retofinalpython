@@ -99,7 +99,7 @@ http://localhost:5000
 
 ## 📽️ Video de explicación
 
-[🔗 Enlace al vídeo explicativo](TODO) 
+[🔗 Enlace al vídeo explicativo](https://github.com/MarioArocaPaez/retofinalpython/blob/master/video.mp4) 
 
 ---
 
